@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a front-end developer with over 5 years of experience in this field. My expertise lies in JavaScript and TypeScript, and I have been able to utilize these languages in various projects. Additionally, I have strong experience in working with React and Next.js frameworks and have been able to create visually appealing and efficient user interfaces using these tools. Throughout my career, I have worked as a frontend development team lead in multiple projects, successfully coordinating cross-functional development teams and acting as a team leader. I possess excellent communication and collaboration skills with designers, backend developers, and project managers, and always prioritize the quality and performance of the applications while adhering to coding standards. Furthermore, I am constantly learning and improving my skills to deliver the best performance in future teams and projects. I have a strong passion for working in the field of blockchain programming, and I am currently learning Solidity language and smart contract development.
+Software engineer | Frontend Developer | Blockchain Researcher
 
 
 ## 🌐 Socials:
@@ -12,11 +12,6 @@ I am a front-end developer with over 5 years of experience in this field. My exp
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alizare121&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alizare121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alizare121&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alizare121&icon=0&color=9)](https://visitcount.itsvg.in)
